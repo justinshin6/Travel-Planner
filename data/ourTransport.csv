@@ -1,0 +1,22 @@
+origin,destination,type,price,duration
+Home,VW,plane,500,48
+Home,Ratty,bus,300,99
+Home,Ratty,plane,301,8
+Home,Andrews,train,400,100
+Home,Ivy Room,bus,50,2
+Home,Jos,bus,150,30
+Home,Barus and Holley,train,49,10
+Home,Blue Room,bus,99,20
+VW,Jos,bus,99,6
+VW,Ratty,train,17,5
+Ratty,Andrews,train,3,80
+Ratty,Andrews,bus,2,100
+Ratty,Jos,bus,20,50
+Andrews,Ratty,plane,22,14
+Ivy Room,Andrews,plane,24,13
+Ivy Room,Jos,plane,100,9
+Jos,Ratty,bus,0,77
+Jos,VW,bus,20,45
+Jos,Andrews,train,23,15
+Barus and Holley,Blue Room,train,50,10
+Blue Room,Home,bus,13,10
